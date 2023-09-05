@@ -1,0 +1,26 @@
+#g{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#s{
+    border: 2px solid rgb(124, 196, 17);
+    border-radius: 10px;
+}
+#f{
+    border: 2px solid rgb(124, 196, 17);
+    border-radius: 15px;
+}
+#d{
+    border: 2px solid rgb(124, 196, 17);
+}
+#c{
+    border: 2px solid rgb(124, 196, 17);
+    border-radius: 50%;
+}
+#m{
+    border: 2px solid rgb(124, 196, 17);
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+}

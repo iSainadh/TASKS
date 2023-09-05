@@ -1,0 +1,42 @@
+#a{
+    border: 1px solid black;
+    width: 500px;
+    box-sizing:border-box;
+    height: 400px;
+    margin:auto;
+    background-color: rgba(208, 208, 30, 0.757);
+}
+
+
+#f button{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    color: blue;
+    width: 130px;
+    padding:5px;
+    text-align: left;
+    border-color: white;
+    border-right-width: 20px;
+    border-right-color: black;
+}
+
+h1{
+    font-family:  Arial, sans-serif;
+}
+
+#f{
+    width: 30%;
+    float: left;
+}
+
+#g{
+    margin-left: 10px;
+    width: 60%;
+    float: left;
+    color: rgb(97, 3, 72);
+}
+
+#f button:hover{
+    color: rgb(97, 3, 72);
+}

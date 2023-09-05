@@ -1,0 +1,83 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#f{
+    width: 1000px;
+    height: 580px;
+    border: 1px solid rgba(165, 10, 77,0.977);
+    background-color: rgba(165, 10, 77,0.977);
+    margin: 0 auto;
+}
+
+#g{
+    border: 1px solid rgb(116, 5,49);
+    width: 700px;
+    height: 520px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(116, 5,49);
+    color: white;
+}
+
+input, select, textarea{
+    margin-top: 15px;
+    width: 180px;
+    margin-left: 0px;
+    padding: 5px;
+}
+
+input[type="radio"]{
+    width: 10px;
+    height: 10px;
+
+}
+select{
+    width:135px;
+    margin-left: 0px;
+    margin-left: 38px;
+    /* font-weight: bold; */
+}
+
+input[type="submit"]{
+    width: 320px;
+    border-radius: 5px;
+    font-size: large;
+    border-color: white;
+    /* font-weight: bold; */
+    /* margin-left: 50px; */
+}
+
+input[type="text"], input[type="email"]{
+    margin-left: 63px;
+}
+
+input[type="password"]{
+    margin-left: 36px;
+}
+
+textarea{
+    margin-left: 58px;
+    margin-top: 0px;
+}
+
+#zip{
+    margin-left: 41px;
+    margin-bottom: 0px;
+}
+
+#x{
+    /* box-sizing: content-box; */
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+}
+
+.k{
+    margin-left: 53px;
+}
+
+#about{
+    margin-top: 15px;
+}
